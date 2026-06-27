@@ -26,5 +26,6 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
+Sitemap: https://altansayan.github.io/sitemap.xml
 Sitemap: https://altansayan.github.io/mock-jutsu-api/sitemap.xml
 Sitemap: https://altansayan.github.io/mock-jutsu-api/HOW-TO/sitemap-howto.xml

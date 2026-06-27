@@ -1,0 +1,16 @@
+{
+  "name": "Altan Sezer Ayan",
+  "short_name": "altansayan",
+  "description": "Founder of ASA Intelligence. AI-first software engineer and open-source developer.",
+  "theme_color": "#3b82f6",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://altansayan.github.io/mock-jutsu-api/assets/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
