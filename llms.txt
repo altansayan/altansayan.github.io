@@ -1,0 +1,26 @@
+# Altan Sezer Ayan
+
+> Founder of ASA Intelligence — AI-first technology company based in Istanbul, Turkey. 12+ years of QA and fintech experience. Building open-source developer tools, AI-powered platforms, and synthetic data solutions.
+
+## About
+
+Altan Sezer Ayan (A.S.A) is a software engineer and entrepreneur focused on AI-first tooling, fintech automation, and developer productivity. He operates under the ASA Intelligence brand — a single-founder + AI team model for building lean, high-quality software products.
+
+## Projects
+
+- [Mock Jutsu](https://altansayan.github.io/mock-jutsu-api/): Open-source synthetic test data generator. 395+ data types across banking, identity, payments, crypto, health, and more. Available as CLI, Python library, and REST API.
+
+## Documentation
+
+- [Mock Jutsu HOW-TO (English)](https://altansayan.github.io/mock-jutsu-api/HOW-TO/EN/HOW-TO-MockJutsu-EN.html): Full reference for all 395 data types with CLI examples, Python usage, REST API, and validation rules.
+- [Mock Jutsu HOW-TO (Turkish)](https://altansayan.github.io/mock-jutsu-api/HOW-TO/TR/HOW-TO-MockJutsu-TR.html): Türkçe referans dokümantasyon.
+- [Mock Jutsu HOW-TO (German)](https://altansayan.github.io/mock-jutsu-api/HOW-TO/DE/HOW-TO-MockJutsu-DE.html): Deutsche Referenzdokumentation.
+- [Mock Jutsu HOW-TO (French)](https://altansayan.github.io/mock-jutsu-api/HOW-TO/FR/HOW-TO-MockJutsu-FR.html): Documentation de référence en français.
+- [Mock Jutsu HOW-TO (Russian)](https://altansayan.github.io/mock-jutsu-api/HOW-TO/RU/HOW-TO-MockJutsu-RU.html): Справочная документация на русском.
+
+## Links
+
+- [GitHub](https://github.com/altansayan)
+- [PyPI — mock-jutsu](https://pypi.org/project/mock-jutsu/)
+- [Docker Hub — mock-jutsu-api](https://hub.docker.com/r/altansayan/mock-jutsu-api)
+- [LinkedIn](https://www.linkedin.com/in/altansezerayan)
